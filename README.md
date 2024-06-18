@@ -10,4 +10,4 @@ Install Requirements
 
 ## Usage
 
-You can read this medium article for more information.
+You can read this medium article for more information. [How to deploy Lambda function on AWS using Terraform](https://bulutbatuhan.medium.com/how-to-deploy-lambda-function-on-aws-using-terraform-16f7f1fa930f)
